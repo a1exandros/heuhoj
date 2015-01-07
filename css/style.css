@@ -1,8 +1,7 @@
 @charset 'UTF-8';
 @import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
-
-@font-face{font-family:'Please write me a song';src:url('../fonts/Please_write_me_a_song.ttf')  format('truetype')};
+@font-face {font-family:"Please write me a song";src:url("Please_write_me_a_song.eot?") format("eot"),url("Please_write_me_a_song.woff") format("woff"),url("Please_write_me_a_song.ttf") format("truetype"),url("Please_write_me_a_song.svg#Pleasewritemeasong") format("svg");font-weight:normal;font-style:normal;}
 
 /*
 	Dopetrope by HTML5 UP
