@@ -235,6 +235,24 @@
 				outline: 0;
 			}
 
+		#nav > ul > li.language
+		{
+		}
+		
+			#nav > ul > li.language > a
+			{
+				color: #d52349;
+			}
+		#nav > ul > li.language:hover
+		{
+		}
+		
+			#nav > ul > li.language:hover > a
+			{
+				background: #d52349;
+				color: #ffffff;
+			}
+
 		#nav > ul > li:hover
 		{
 		}
