@@ -366,6 +366,31 @@
 			{
 				font-size: 1.5em;
 			}
+
+	#banneralt
+	{
+		position: relative;
+		padding: 8em 0;
+		margin: 4em 0 0 0;
+	}
+	
+		#banneralt header
+		{
+			display: inline-block;
+			padding: 2.5em 5em;
+			border-radius: 5px;
+		}
+		
+			#banneralt header h2
+			{
+				font-size: 2.5em;
+				margin: 0 0 0.65em 0;
+			}
+
+			#banneralt header p
+			{
+				font-size: 1em;
+			}
 			
 /*********************************************************************************/
 /* Footer                                                                        */

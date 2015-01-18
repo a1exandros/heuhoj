@@ -299,6 +299,8 @@
 				width: auto;
 			}
 
+
+
 	/* Button */
 		
 		input[type="button"],
@@ -693,7 +695,7 @@
 
 	#banner
 	{
-		background: #6f4420 url('../images/wiese.jpg');
+		background: #6f4420 url('../images/banner1.jpg');
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -713,6 +715,35 @@
 			}
 			
 			#banner header p
+			{
+				color: #fff;
+				padding: 0;
+				font-style: normal;
+				margin: 0;
+			}
+
+	#banneralt
+	{
+		background: #6f4420 url('../images/banner2.jpg');
+		background-position: center center;
+		background-size: auto 100%;
+		background-repeat: no-repeat;
+		text-align: center;
+	}
+
+		#banneralt header
+		{
+			background-color: #d52349;
+			/*background-color: rgba(34,30,31,0.98);*/
+		}
+		
+			#banneralt header h2
+			{
+				color: #fff;
+				font-weight: 700;
+			}
+			
+			#banneralt header p
 			{
 				color: #fff;
 				padding: 0;
