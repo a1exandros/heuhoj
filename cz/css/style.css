@@ -726,7 +726,7 @@
 	{
 		background: #6f4420 url('../images/banner2.jpg');
 		background-position: center center;
-		background-size: auto 100%;
+		background-size: 100% auto;
 		background-repeat: no-repeat;
 		text-align: center;
 	}
